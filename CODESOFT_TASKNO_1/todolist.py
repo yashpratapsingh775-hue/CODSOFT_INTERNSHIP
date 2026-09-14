@@ -21,6 +21,7 @@ while True:
     print("4. Complete Task")
     print("5. Delete Task")
     print("6. Exit")
+    print("Thanks for using this")
 
     choice = input("Enter your choice: ")
 
